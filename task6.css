@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box1{
+    
+    border: 5px solid;
+    width: 500px;
+    height: 250px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+    position: relative;
+    border-color: rgb(196, 191, 191);
+}
+.box2{
+    background-color: blueviolet;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 105px;
+    height: 105px;
+    border-radius: 5px;
+    position: absolute;
+    right: 0px;
+}
+.sp{
+    color: aliceblue;
+}
+.p{
+    margin-top: 20px;
+    margin-left: 5px ;
+   margin-right: 5px;
+}
